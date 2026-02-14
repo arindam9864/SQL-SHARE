@@ -1,7 +1,12 @@
-INSERT INTO STUDENT (ROLL_NO, NAME, ADDRESS, PHONE, AGE) VALUES
-('1', 'RAM', 'DELHI', '******', 18),
-('2', 'RAMESH', 'GURGAON', '******', 18),
-('3', 'SUJIT', 'ROHTAK', '******', 20),
-('4', 'SURESH', 'DELHI', '******', 18),
-('5', 'AMAN', 'ROHTAK', '******', 20),
-('6', 'HARSH', 'GURGAON', '******', 18);
+INSERT INTO PRODUCT(PRO_ID,PRO_NAME,PRO_PRICE,PRO_COM)
+VALUES
+    ("101","MOTHER BOARD","3200","15"),
+    ("102","KEY BOARD","450","16"),
+    ("103","ZIP DRIVE","250","14"),
+    ("104","SPEAKER","550","16"),
+    ("105","MONITOR","5000","11"),
+    ("106","DVD DRIVE","900","12"),
+    ("107","CD DRIVE","800","12"),
+    ("108","PRINTER","2600","13"),
+    ("109","REFILL CARTRIDGE","350","13"),
+    ("110","MOUSE","250","12");
