@@ -1,6 +1,7 @@
-INSERT INTO PRODUCTS (PRODUCT_ID, PRODUCT_NAME, SUPPLIER_ID, CATEGORY_ID, UNIT, PRICE) VALUES
-('1', 'CHAIS', '1', '1', '10 BOXES*20 BAGS', 18),
-('2', 'CHANG', '1', '1', '24-12 OZ BOTTLES', 19),
-('3', 'ANISEED SYRUP', '1', '2', '12-550 ML BOTTLES', 10),
-('4', 'CHEF ANTON SEASONING', '2', '2', '48-6 OZ JARS', 22),
-('5', 'CHEF ANTON MIX', '2', '2', '36 BOXES', 21.35);
+INSERT INTO STUDENT (ROLL_NO, NAME, ADDRESS, PHONE, AGE) VALUES
+('1', 'RAM', 'DELHI', '******', 18),
+('2', 'RAMESH', 'GURGAON', '******', 18),
+('3', 'SUJIT', 'ROHTAK', '******', 20),
+('4', 'SURESH', 'DELHI', '******', 18),
+('5', 'AMAN', 'ROHTAK', '******', 20),
+('6', 'HARSH', 'GURGAON', '******', 18);
