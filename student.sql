@@ -1,7 +1,9 @@
-INSERT INTO STUDENT (ROLL_NO, NAME, ADDRESS, PHONE, AGE) VALUES
-('1', 'RAM', 'DELHI', '******', 18),
-('2', 'RAMESH', 'GURGAON', '******', 18),
-('3', 'SUJIT', 'ROHTAK', '******', 20),
-('4', 'SURESH', 'DELHI', '******', 18),
-('5', 'AMAN', 'ROHTAK', '******', 20),
-('6', 'HARSH', 'GURGAON', '******', 18);
+INSERT INTO DEPARTMENT (EMPLOYEE_ID, NAME, DEPARTMENT_ID, MANAGER_ID, SALARY) VALUES
+('100', 'STEVEN KING', '90', '100', 24000),
+('101', 'NEENA KOCHCAR', '90', '100', 17000),
+('102', 'LEX DEHAAN', '90', '102', 9000),
+('103', 'BRUCE LEE', '60', '103', 4800),
+('104', 'DIANA WILLS', '60', '103', 25000),
+('105', 'VALLI PATOR', '50', '100', 4200),
+('1973', 'LUV HAMI', '60', '102', 5000),
+('106', 'DAVID AUSTIN', '90', '100', 6000);
