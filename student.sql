@@ -1,3 +1,11 @@
+CREATE TABLE IF NOT EXISTS Salesman(
+  Salesman_id TEXT PRIMARY KEY,
+  name TEXT,
+  city TEXT,
+  commission REAL
+);
+
+
 INSERT INTO Salesman(Salesman_id,name,city,commission)
 VALUES
   ("5001","James Hoog","New York",0.15),
